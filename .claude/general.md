@@ -1,0 +1,1 @@
+Temporary files and folders you should create in a tmp directory and delete when unnecessary any more.
